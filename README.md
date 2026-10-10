@@ -4,10 +4,6 @@
 ## AIM
 To develop a Django Application to store and retrieve data from a Vehicle Service Database platform using Object Relational Mapping(ORM).
 
-## ENTITY RELATIONSHIP DIAGRAM
-
-
-
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -43,4 +39,4 @@ Execute Django admin using localhost and create details for 10 entries
 
 
 ## RESULT
-Thus the program for creating Online Food Delivery Database using ORM hass been executed successfully
+Thus the program for creating vehicle service Database using ORM hss been executed successfully.

@@ -30,7 +30,7 @@ Apply the migration files of the created app to the database
 Execute Django admin using localhost and create details for 10 entries
 
 ## PROGRAM
-'''
+```
 models.py
 
 from django.db import models
@@ -54,7 +54,7 @@ from django.contrib import admin
 from .models import Vehicle_Details_DB,Vehicle_Details_DBAdmin
 admin.site.register(Vehicle_Details_DB,Vehicle_Details_DBAdmin)
 # Register your models here.
-'''
+```
 ## OUTPUT
 ![alt text](<Screenshot (8).png>)
 
